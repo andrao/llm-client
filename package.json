@@ -13,6 +13,7 @@
     "author": "andrao",
     "type": "module",
     "exports": {
+        ".": "./dist/index.js",
         "./*": "./dist/*.js"
     },
     "scripts": {
