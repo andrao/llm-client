@@ -4,6 +4,7 @@
 src
 
 # dev
+.env
 .github
 .husky
 .nvmrc
